@@ -11,6 +11,3 @@ This repository contains:
 index.html              --this displays the page with the visualizations
 /static/css/style.css   --contains the css styling for the page
 /static/js/logic.cs     --
-
-To run, this repository needs:
-/static/js/config.js    --to contain a variable called "API_KEY" that contains 
